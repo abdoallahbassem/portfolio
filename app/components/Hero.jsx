@@ -1,7 +1,6 @@
 import LightRays from "./background";
 import MyWork from "./MyWork";
 import About from "./About";
-import Link from "next/link";
 import Skills from "./Skills";
 import Contact from "./Contact";
 export default function Hero() {
